@@ -14,11 +14,11 @@ function Card({ text, id }) {
 
   return (
     <div className="card">
-      <div className="card_text">
+      <div className="card_text" style={{fontSize: text.length > 50 ? "8px" : text.length > 20 ? "10px" : "14px"}}>
         <h2>{text}</h2>
       </div>
       <img className="card_img" src="henlo.jpg" alt="henlo" />
-      <button style={{backgroundColor: 'rgb(20,0,0,0,0)'}} onClick={() => HandleDelete(id)}>.</button>
+      {/* <button style={{backgroundColor: 'rgb(20,0,0,0,0)'}} onClick={() => HandleDelete(id)}>delete</button> */}
     </div>
   );
 }
