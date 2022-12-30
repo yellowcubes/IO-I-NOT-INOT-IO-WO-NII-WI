@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/site_web_memes/static/css/main.b9580770.css",
+    "main.js": "/site_web_memes/static/js/main.8b1b87d3.js",
+    "static/js/787.28557daf.chunk.js": "/site_web_memes/static/js/787.28557daf.chunk.js",
+    "static/media/henlo.jpg": "/site_web_memes/static/media/henlo.d31529616ba51369cf84.jpg",
+    "static/media/logo.svg": "/site_web_memes/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/site_web_memes/index.html",
+    "main.b9580770.css.map": "/site_web_memes/static/css/main.b9580770.css.map",
+    "main.8b1b87d3.js.map": "/site_web_memes/static/js/main.8b1b87d3.js.map",
+    "787.28557daf.chunk.js.map": "/site_web_memes/static/js/787.28557daf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b9580770.css",
+    "static/js/main.8b1b87d3.js"
+  ]
+}
