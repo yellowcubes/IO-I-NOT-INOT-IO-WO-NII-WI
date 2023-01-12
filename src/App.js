@@ -173,7 +173,7 @@ function App() {
               </button>
             </div>
           )}
-          {latestMeme !== "" && <h2>Ton mèmes:</h2>}
+          {latestMeme !== "" && <h2>Ton mème:</h2>}
           {latestMeme !== "" && <Card text={latestMeme}></Card>}
         </div>
       </section>
